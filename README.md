@@ -1,2 +1,3 @@
-# skyseeder.github.io
-hello world!
+---
+permalink: /index.html
+---
